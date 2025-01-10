@@ -19,7 +19,7 @@
 - - Rubber bumper
 - - End-of-stroke sensor
   
-![img](https://raw.githubusercontent.com/rtek1000/Church-Bell-Automator/refs/heads/main/System2/Img/IMG_20170921_3.jpg)
+![img](https://raw.githubusercontent.com/rtek1000/Church-Bell-Automator/refs/heads/main/System2/Img/IMG_20170921_5.jpg)
 
 --------
 
