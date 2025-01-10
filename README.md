@@ -1,5 +1,4 @@
-# Church-Bell-Automator
-Church Bell Automator
+# Church Bell Automator
 
 - System 1:
 - - 245W Motor (1/3 HP)
