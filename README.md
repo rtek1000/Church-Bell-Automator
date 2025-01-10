@@ -13,11 +13,11 @@
 - System 2:
 - - 551W Motor (3/4 HP)
 - - Bell clapper traction
-- - Return spring
 - - Steel cable
 - - Pulleys
 - - Rubber bumper
 - - End-of-stroke sensor
+- - Return spring
   
 ![img](https://raw.githubusercontent.com/rtek1000/Church-Bell-Automator/refs/heads/main/System2/Img/IMG_20170921_5.jpg)
 
